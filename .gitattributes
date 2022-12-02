@@ -15,4 +15,4 @@
 *.jpg binary
 *.ico binary
 
-*.html linguist-vendored
+*.html linguist-detectable=false
