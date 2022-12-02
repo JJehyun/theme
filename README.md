@@ -1,7 +1,7 @@
 ```console
 $ bundle exec jekyll serve
 ```
-JJehyun s블로그 실행
+JJehyun블로그 실행
 
 ## Features
 
